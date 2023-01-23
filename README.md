@@ -1,4 +1,5 @@
 ### yoonah chang @uchicago!
+iychang@uchicago.edu
 
 <!--
 **mirayusi/mirayusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
